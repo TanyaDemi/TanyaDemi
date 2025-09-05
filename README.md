@@ -18,6 +18,8 @@ I am a Junior Data Engineer with over a year of intensive training and hands-on 
 This mindset led me to advance my education in IT, starting with Python and SQL, and developing expertise in ETL, data warehousing, and automation.
 I am looking for a full-time Data Engineer position in a company where I can apply my knowledge, grow within a collaborative team, and contribute to impactful data solutions.
 
+My portfolio of educational academic projects see 'https://github.com/TanyaDemi/Portfolio-Academic-Project'   
+
 
 <!---
 TanyaDemi/TanyaDemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
