@@ -5,7 +5,7 @@ Skilled in **SQL, Python, and Apache Airflow**, with experience designing schema
 
 ---
 
-## 🔹 Key Experience & Skills  
+## 💡 Key Experience & Skills  
 
 - Built an **ETL pipeline with Apache Airflow**, orchestrating extraction from PostgreSQL, transformation, and loading into Vertica DWH.  
 - Designed and implemented **staging and DWH layers** with dimension and fact tables for financial data.  
